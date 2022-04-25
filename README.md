@@ -18,9 +18,9 @@ Afterwards I ran my statistical analysis on the June temperatures. Here is what 
 
 According to the June temperature stats: 
 
-####   The mean June temperature is 71°F, with a max of 83°F and min of 56°F. This places Oahu in a favorable place for surfing and ice-cream conditions.
-####   The data was retrieved using 1517 data points over the span of 8 years. It gives a balanced representation of the June temperatures in Oahu.
-####   Standard deviation is 3.74 from the mean, which goes to say that the temperature results are pretty consistent. 
+#### *  The mean June temperature is 71°F, with a max of 83°F and min of 56°F. This places Oahu in a favorable place for surfing and ice-cream conditions.
+#### *  The data was retrieved using 1517 data points over the span of 8 years. It gives a balanced representation of the June temperatures in Oahu.
+#### *  Standard deviation is 3.74 from the mean, which goes to say that the temperature results are pretty consistent. 
 
 
 
